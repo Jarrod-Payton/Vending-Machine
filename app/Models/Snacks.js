@@ -1,4 +1,4 @@
-export class SnackRecipe {
+export class Snacks {
   constructor(name, id, price, quantity) {
     this.name = name
     this.id = id
