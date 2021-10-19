@@ -1,5 +1,4 @@
-import { EventEmitter } from "./Utils/EventEmitter.js"
-import { isValidProp } from "./Utils/isValidProp.js"
+import { Snacks } from "./Models/Snacks.js"
 
 export class SnackItems {
   Items = {
